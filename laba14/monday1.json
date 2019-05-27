@@ -1,0 +1,49 @@
+{
+    "group": "KN-207",
+    "occupation": [
+        {
+            "type": "lecture",
+            "lecturer": {
+                "name": "Yevgen",
+                "surname": "Burov",
+                "department": "ISM"
+            },
+            "time begin": {
+                "$timestamp": "08:30:00"
+            },
+            "time end": {
+                "$timestamp": "10:05:00"
+            },
+            "campus": "1",
+            "cabinet": "217",
+            "subject": {
+                "name": "computer network",
+                "credit": 4,
+                "hours": 120,
+                "block": "pryrodnycho-texnichnyyi"
+            }
+        },
+        {
+            "type": "lecture",
+            "lecturer": {
+                "name": "Nataliia",
+                "surname": "Boyiko",
+                "department": "SSHI"
+            },
+            "time begin": {
+                "timestamp": "10:20:00"
+            },
+            "time end": {
+                "timestamp": "11:55:00"
+            },
+            "campus": "1",
+            "cabinet": "217",
+            "subject": {
+                "name": "systemnyyyi analiz",
+                "credit": 5,
+                "hours": 150,
+                "block": "profesiyinyyi"
+            }
+        }
+    ]
+}

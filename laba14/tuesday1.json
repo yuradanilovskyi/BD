@@ -1,0 +1,27 @@
+{
+    "group": "KN-207",
+    "occupation": [
+        {
+            "type": "lecture",
+            "lecturer": {
+                "name": "Nataliia",
+                "surname": "Boyiko",
+                "department": "SSHI"
+            },
+            "time begin": {
+                "$timestamp": "12:10:00"
+            },
+            "time end": {
+                "$timestamp": "13:45:00"
+            },
+            "campus": "20",
+            "cabinet": "123a",
+            "subject": {
+                "name": "mmdo",
+                "credit": 5,
+                "hours": 150,
+                "block": "profesiyinyyi"
+            }
+        }
+    ]
+}
